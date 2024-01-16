@@ -1,0 +1,962 @@
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefa.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefa.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefa.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgenta.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgenta.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenog.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleni.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRaspolozivaMesta.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSajtForm.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.Najam.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\Anja\OneDrive\Radna površina\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.Najam.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRaspolozivaMesta.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSajtForm.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.Najam.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRaspolozivaMesta.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSajtForm.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeVlasnika.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeVlasnika.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaFizickogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaPravnogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaFizickogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaPravnogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaFL.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaPL.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeFizickogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeFizickogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjeFizickogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjePravnogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePravnogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjePravnogLica.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaSveVlasnike.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForme.StanoviAgencijeForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForme.KuceAgencijeForma.resources
+C:\Users\Anja\OneDrive\Radna površina\Baze\faza1\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForme.ZaposleniSveForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaFizickogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaPravnogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaFizickogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaPravnogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaFL.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaPL.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeFizickogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeFizickogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjeFizickogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForme.KuceAgencijeForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjePravnogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePravnogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjePravnogLica.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRaspolozivaMesta.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSajtForm.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForme.StanoviAgencijeForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeVlasnika.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeVlasnika.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaSveVlasnike.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForme.ZaposleniSveForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.dodajDodaci.DodajDodatnuOpremuForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.dodajDodaci.DodajKrevetForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.dodajDodaci.DodajKuhinjuForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.dodajDodaci.DodajParkingMestoForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.izmeniDodaci.IzmeniDodatnuOpremuForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.izmeniDodaci.IzmeniKrevetForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.izmeniDodaci.IzmeniKuhinjuForma.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.izmeniDodaci.IzmeniParkingMesta.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.DodajDodatak.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.NajamForm.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSpoljnogSaradnika.resources
+C:\Users\Ksenija\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSpoljnogSaradnika.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaFizickogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaPravnogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaFizickogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaPravnogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaFL.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaPL.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajDodatnuOpremuForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKrevetForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKuhinjuForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajParkingMestoForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniDodatnuOpremuForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKrevetForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKuhinjuForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniParkingMesta.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeFizickogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeFizickogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjeFizickogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForme.KuceAgencijeForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.NajamForm.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjePravnogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePravnogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjePravnogLica.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRaspolozivaMesta.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSajtForm.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSpoljnogSaradnika.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSpoljnogSaradnika.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForme.StanoviAgencijeForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeVlasnika.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeVlasnika.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaSveVlasnike.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForme.ZaposleniSveForma.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\stefa\Documents\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaFizickogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaPravnogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaFizickogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaPravnogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaFL.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaPL.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajDodatnuOpremuForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKrevetForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKuhinjuForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajParkingMestoForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniDodatnuOpremuForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKrevetForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKuhinjuForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniParkingMesta.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeFizickogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeFizickogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjeFizickogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForme.KuceAgencijeForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.NajamForm.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjePravnogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePravnogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjePravnogLica.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRaspolozivaMesta.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSajtForm.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSpoljnogSaradnika.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSpoljnogSaradnika.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForme.StanoviAgencijeForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeVlasnika.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeVlasnika.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaSveVlasnike.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForme.ZaposleniSveForma.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\Anja\Downloads\SistemiBaza\SistemiBaza\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaFizickogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaPravnogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaFizickogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaPravnogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaFL.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaPL.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajDodatnuOpremuForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKrevetForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKuhinjuForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajParkingMestoForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniDodatnuOpremuForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKrevetForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKuhinjuForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniParkingMesta.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeFizickogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeFizickogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjeFizickogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForme.KuceAgencijeForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.NajamForm.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjePravnogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePravnogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjePravnogLica.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRaspolozivaMesta.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSajtForm.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSpoljnogSaradnika.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSpoljnogSaradnika.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForme.StanoviAgencijeForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeVlasnika.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeVlasnika.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaSveVlasnike.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForme.ZaposleniSveForma.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\stefa\Documents\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaFizickogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaPravnogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaFizickogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaPravnogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaFL.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaPL.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajDodatnuOpremuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKrevetForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKuhinjuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajParkingMestoForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniDodatnuOpremuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKrevetForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKuhinjuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniParkingMesta.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeFizickogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeFizickogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjeFizickogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForme.KuceAgencijeForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.NajamForm.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjePravnogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePravnogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjePravnogLica.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSpoljnogSaradnika.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSpoljnogSaradnika.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForme.StanoviAgencijeForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeVlasnika.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeVlasnika.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaSveVlasnike.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForme.ZaposleniSveForma.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\Anja\Downloads\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe.config
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.exe
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\StanNaDanv2.pdb
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.dll
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Antlr3.Runtime.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.pdb
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\FluentNHibernate.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Iesi.Collections.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\NHibernate.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Buffers.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Memory.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Text.Json.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\bin\Debug\System.ValueTuple.xml
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Form1.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajAgentaForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.AgentForme.SviAgentiForm.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaFizickogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeTelefonaPravnogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaFizickogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeTelefonaPravnogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaFL.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaUcitavanjeTelefonaPL.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajDodatnuOpremuForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKrevetForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajKuhinjuForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeDodavanje.DodajParkingMestoForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajDodatak.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniDodatnuOpremuForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKrevetForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniKuhinjuForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodaciForme.formeIzmena.IzmeniParkingMesta.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeFizickogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeFizickogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjeFizickogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeAgencije.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeAgencije.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePoslovnice.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuAgencija.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaListuPoslovnica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForme.KuceAgencijeForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajNajam.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniNajam.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.NajamForm.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjePravnogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjePravnogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaPrikazivanjePravnogLica.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajRaspolozivaMestaForme.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.RaspolozivaMesta.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSajtForm.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKvartForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajKucuForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KvartDodajForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SajtNekretnineForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SefForme.SviSefoviForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSpoljnogSaradnika.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSpoljnogSaradnika.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SpoljniSaradnikForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajStanForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniKucuForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniStanForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.KucaForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegsefaForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.StanForme.StanoviAgencijeForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaAzuriranjeVlasnika.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaDodavanjeVlasnika.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaSveVlasnike.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.FormaZaVlasnika.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajPostojecegZaposlenogForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajSefaForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajVecPostojecegAgentaForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.DodajZaposlenogForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniAgentaForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniRadniOdnos.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniSefaForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.IzmeniZaposlenogForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.SviZaposleniForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Forme.ZaposleniForme.ZaposleniSveForma.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.Properties.Resources.resources
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.csproj.CopyComplete
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.exe
+C:\Users\stefa\Documents\SBPfinalna\StanNaDanv2 (2)\StanNaDanv2\obj\Debug\StanNaDanv2.pdb
